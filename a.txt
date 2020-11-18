@@ -1,4 +1,4 @@
-this comment add in local master repository
+this comment add in local master repository.
 
 this is text mesaage compose by me.
 second detai of code
